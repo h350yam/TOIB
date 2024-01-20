@@ -2,33 +2,33 @@
 
 ## Keycloak в Docker
 
-![](screenshots/1.png)
-![](screenshots/2.png)
+![](Screens/1.png)
+![](Screens/2.png)
 
 ## Создаём realm в keycloak
 
-![](screenshots/3.png)
+![](Screens/3.png)
 
 ## Создание пользователей `admin` и `user`
 
-![](screenshots/4.png)
-![](screenshots/5.png)
-![](screenshots/6.png)
+![](Screens/4.png)
+![](Screens/5.png)
+![](Screens/6.png)
 
 ## Разворачиваем NextCloud через Docker и после этого делаем клиент в Keycloak
 
-![](screenshots/7.png)
+![](Screens/7.png)
 
 ## Настраиваем NextCloud для получения возможности работы с Keycloak
 
-![](screenshots/8.png)
+![](Screens/8.png)
 
 ## Проверка правильности настроек и возможности аутентификации
 
-![](screenshots/9.png)
-![](screenshots/10.png)
+![](Screens/9.png)
+![](Screens/10.png)
 
 ## Настроим дополнительно двухфакторную аутентификацию в настройках Keycloak и проверим сработало ли всё уже на авторизации NextCloud
 
-![](screenshots/11.png)
-![](screenshots/12.png)
+![](Screens/11.png)
+![](Screens/12.png)
